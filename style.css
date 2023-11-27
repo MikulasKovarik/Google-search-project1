@@ -1,3 +1,17 @@
-form{
+.forms{
     font-family: Arial, Helvetica, sans-serif;
+    border: black solid 6px;
+    padding-left: 6rem;
+}
+
+.center {
+    margin: auto;
+    width: 20%;
+    padding: 300px;
+  }
+
+.inputs{
+    margin:auto;
+    width:50%;
+    display:block
 }
